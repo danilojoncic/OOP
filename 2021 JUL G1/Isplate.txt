@@ -1,0 +1,34 @@
+ISPLATA
+30000 Agencija za nekretnine ISPLATA
+ISPLATA
+5000 Osiguravajuca kuca "Bolji zivot" ISPLATA
+UPLATA
+3000 Vlada RS UPLATA
+UPLATA
+100000 RAF UPLATA
+ISPLATA
+500 Taksi "Tokyo Drift" ISPLATA
+ISPLATA
+2000 Gradski prevoz ISPLATA
+ISPLATA
+5000 Knjizara "Miroljub" ISPLATA
+UPLATA
+3000 Gospodin Popara UPLATA
+ISPLATA
+10000 Prodavnica zdrave hrane "Giros" ISPLATA
+ISPLATA
+7500 Modna kuca "Luj Beton" ISPLATA
+ISPLATA
+2500 Mesara "Lady Gaga" ISPLATA
+UPLATA
+4000 Arandjel Golubovic UPLATA
+ISPLATA
+3000 Kafana "Kod Zokija" ISPLATA
+UPLATA
+5000 Riska Golubovic UPLATA
+ISPLATA
+100 Poreska uprava ISPLATA
+ISPLATA
+350 Pijaca "Gorski vijenac" ISPLATA
+UPLATA
+6000 Ozren Soldatovic UPLATA
